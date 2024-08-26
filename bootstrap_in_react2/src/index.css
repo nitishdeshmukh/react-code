@@ -1,0 +1,31 @@
+.main-section{
+    height:600px;
+    width: 100%;
+}
+.text-section{
+   height: 250px;
+   width: 100%;
+}
+.container-section{
+    display: flex;
+    align-content: space-between;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 50px 0px;
+}
+.box{
+   height: 200px;
+   width: 600px;
+   background-color: lightcoral;
+   text-align: center;
+}
+.header{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(124, 63, 199);
+}
+.fotter{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(124, 63, 199);
+}
